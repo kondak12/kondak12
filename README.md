@@ -1,10 +1,8 @@
 <br/>
-<br/>
-<br/>
+<h2 align="center"> Hello! I'm Ivan 👋</h1>
+<p align="center">
+<samp> I am a beginner Python programmer, trying to improve my programming skills and knowledge.</samp>
 
-<h1> Hello! I'm Ivan 👋
-
-<br/>
 <br/>
 <br/>
 
