@@ -31,8 +31,10 @@
 
 <h2> Codewars And Leetcode 👇</h2> 
 
-![Codewars Stats](https://github.r2v.ch/codewars?user=Arrristotel&stroke=%23BB432C&hide_clan=true)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Arrristotel)
+<p align="center">
+    <img src=https://github.r2v.ch/codewars?user=Arrristotel&stroke=%23BB432C&hide_clan=true>
+    <img src=https://leetcard.jacoblin.cool/Arrristotel>
+</p>
 
 <br/>
 <br/>
