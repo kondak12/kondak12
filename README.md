@@ -21,12 +21,18 @@
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
+<br/>
+
+<h2> GitHub Stats 👇</h2> 
+<a href="https://github.com/kondak12/github-readme-stats"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondak12&layout=compact&theme=kondak12" /></a>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kondak12&theme=kondak12" alt="kondak12" />
 
 <br/>
 
-<h2> Github Stats 👇</h2> 
-<a href="https://github.com/kondak12/github-readme-stats"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondak12&layout=compact&theme=kondak12" /></a>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kondak12&theme=kondak12" alt="kondak12" />
+<h2> Codewars And Leetcode 👇</h2> 
+
+![Codewars Stats](https://github.r2v.ch/codewars?user=Arrristotel&stroke=%23BB432C)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Arrristotel)
 
 <br/>
 <br/>
