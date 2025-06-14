@@ -29,7 +29,7 @@
 
 <br/>
 
-<h2> Codewars And Leetcode 👇</h2> 
+<h2> CodeWars And LeetCode 👇</h2> 
 
 <p align="center">
     <img src=https://github.r2v.ch/codewars?user=Arrristotel&stroke=%23BB432C&hide_clan=true>
