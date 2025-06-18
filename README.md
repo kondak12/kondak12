@@ -29,7 +29,7 @@
 <br/>
 
 <h2> 📊 GitHub Stats 👇</h2> 
-<a href="https://github.com/kondak12/github-readme-stats"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondak12&layout=compact&theme=kondak12" /></a>
+<a href="https://github.com/kondak12/github-readme-stats"><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondak12&layout=compact&theme=kondak12" /></a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kondak12&count_private=true&show_icons=true&include_all_commits=true)
 
