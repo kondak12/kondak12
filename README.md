@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<h2> Technologies I Use 👇</h3>
+<h2> 🚀 Technologies I Use 👇</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h2> My Past 👇</h3>
+<h2> 🛠️ My Past 👇</h3>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -22,24 +22,31 @@
 
 <br/>
 
-<h2> GitHub Stats 👇</h2> 
-<a href="https://github.com/kondak12/github-readme-stats"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondak12&layout=compact&theme=kondak12" /></a>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kondak12&theme=kondak12" alt="kondak12" />
+<h2> ⭐️ Pet Projects 👇</h3>
+
+  🎮 [Console Game](https://github.com/kondak12/console-game) — my first project, simple text game in console window. The project was made to learn the basics of programming in python.
 
 <br/>
 
-<h2> CodeWars And LeetCode 👇</h2> 
+<h2> 📊 GitHub Stats 👇</h2> 
+<a href="https://github.com/kondak12/github-readme-stats"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondak12&layout=compact&theme=kondak12" /></a>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kondak12&count_private=true&show_icons=true&include_all_commits=true)
+
+<br/>
+
+<h2> 🧠 CodeWars And LeetCode 👇</h2> 
 
 <p align="center">
-    <img src=https://github.r2v.ch/codewars?user=Arrristotel&stroke=%23BB432C&hide_clan=true>
     <img src=https://leetcard.jacoblin.cool/Arrristotel>
+    <img src=https://github.r2v.ch/codewars?user=Arrristotel&stroke=%23BB432C&hide_clan=true>
 </p>
 
 <br/>
 <br/>
  
 <p align="center">
-<h2> Connect With Me On 👇</h2>
+<h2> 📫 Connect With Me On 👇</h2>
 
 
 | WebSite | Link |
