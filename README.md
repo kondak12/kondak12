@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Hi there, I'm Ivan! 
+# 👋 Hi there, I'm Ivan! 
 
 <p align="center">
     <samp> I am a beginner Python programmer, trying to improve my programming skills and knowledge.</samp>
@@ -9,6 +9,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](http://t.me/RealAristotel)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Arrristotel/)
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Arrristotel)
+
+<br/>
 
 </div>
 
@@ -30,14 +32,17 @@
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E"/>
 </p>
 
+<br/>
+
 ---
 
-## 🔥 Featured Project
+## 🔥 Pet Projects
 
-### 🎮 Console Game
-[![GitHub](https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=GitHub)](https://github.com/kondak12/console-game)
+### 🎮 [Console Game](https://github.com/kondak12/console-game)
 
 My first Python project - a text-based console game that helped me master programming fundamentals like loops, conditions, and user input.
+
+<br/>
 
 ---
 
@@ -50,6 +55,8 @@ My first Python project - a text-based console game that helped me master progra
 
 </div>
 
+<br/>
+
 ---
 
 ## 🏆 Coding Profiles
@@ -61,7 +68,7 @@ My first Python project - a text-based console game that helped me master progra
 
 </div>
 
----
+<br/>
 
 <p align="center">
   
