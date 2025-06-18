@@ -64,7 +64,7 @@ My first Python project - a text-based console game that helped me master progra
 <div align="center">
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Arrristotel?theme=dark&font=Roboto)
-![Codewars Stats](https://github.r2v.ch/codewars?user=Arrristotel&top_languages=true&stroke=%23BB432C)
+![Codewars Stats](https://github.r2v.ch/codewars?user=Arrristotel&top_languages=true&stroke=%23BB432C&hide_clan=true)
 
 </div>
 
